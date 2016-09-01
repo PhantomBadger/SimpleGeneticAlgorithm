@@ -211,5 +211,6 @@ def SGA():
 
     print("Generation Complete")
     Statistics()
+    input("")
 
 SGA()
